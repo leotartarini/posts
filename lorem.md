@@ -1,3 +1,9 @@
+---
+
+title: Blogging Like a Hacker
+
+---
+
 # Lorem Ipsum Dolor Sit Amet
 
 Lorem ipsum **dolor sit amet**, consectetur adipiscing elit. Cras volutpat ligula justo, in vehicula magna interdum facilisis. Phasellus pulvinar mauris nunc. Curabitur tincidunt justo facilisis, rutrum sapien et, dictum odio. Sed ultricies nulla in arcu fringilla, ac blandit nibh vehicula. Morbi eget facilisis neque. Aliquam at tellus vel libero laoreet sagittis id a nibh. Pellentesque placerat cursus lorem vel aliquet. Nulla non neque ac mauris convallis condimentum et non tellus. Suspendisse cursus quis purus sagittis convallis. In dolor erat, molestie a interdum sed, blandit non nunc. Suspendisse potenti. Etiam nisl eros, malesuada at cursus vel, placerat eget felis. Nunc non consectetur nulla, ac ultrices metus.
