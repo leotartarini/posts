@@ -22,7 +22,7 @@ Este é apenas um teste do que se pode fazer com .md no React.js.
 
 **"It’s the economy, stupid" carries less weight in 2020**. Polling data show that views about the economy are driven by party affiliation rather than its actual performance. At the same time, issues including the Covid-19 pandemic, leadership style, race and social concerns are factoring heavily in the election choices of voters, diminishing the weight people say they place on the economy, [report Jon Hilsenrath and Aaron Zitner](https://capitaljournal.createsend1.com/t/d-l-cjrzld-l-m/).
 
-<img src="https://i2.createsend1.com/ei/d/08/FB4/982/csimport/OG-EY747_PARTIS_G_20200913165250.165339.png" alt="Something" style="width: 100px"/>
+<img src="https://i2.createsend1.com/ei/d/08/FB4/982/csimport/OG-EY747_PARTIS_G_20200913165250.165339.png" alt="Something" style="width: 80%; text-align: center;"/>
 
 > In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
 
