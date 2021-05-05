@@ -1,4 +1,6 @@
 {
-  "título": "Meu primeiro teste usando JSON",
-  "data": "24-04-2021"
+  "titulo": "Meu primeiro teste usando JSON",
+  "subtitulo": "A forma como meu blog será feita tem que ser bem simples",
+  "data": "05-05-2021",
+  "assunto": "Testes"
 }
